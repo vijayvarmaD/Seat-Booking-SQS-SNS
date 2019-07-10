@@ -1,0 +1,14 @@
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\bin\Debug\netcoreapp2.2\BookingAPI.deps.json
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\bin\Debug\netcoreapp2.2\BookingAPI.runtimeconfig.json
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\bin\Debug\netcoreapp2.2\BookingAPI.runtimeconfig.dev.json
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\bin\Debug\netcoreapp2.2\BookingAPI.dll
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.csprojAssemblyReference.cache
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.csproj.CoreCompileInputs.cache
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.RazorAssemblyInfo.cache
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.RazorAssemblyInfo.cs
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.AssemblyInfoInputs.cache
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.AssemblyInfo.cs
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.RazorTargetAssemblyInfo.cache
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\bin\Debug\netcoreapp2.2\BookingAPI.pdb
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.dll
+D:\Code Repository\Seat Booking + SQS + SNS\BookingAPI\obj\Debug\netcoreapp2.2\BookingAPI.pdb

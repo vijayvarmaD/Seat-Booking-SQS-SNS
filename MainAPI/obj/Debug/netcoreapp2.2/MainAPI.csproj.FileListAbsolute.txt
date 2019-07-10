@@ -1,0 +1,14 @@
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\bin\Debug\netcoreapp2.2\MainAPI.deps.json
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\bin\Debug\netcoreapp2.2\MainAPI.runtimeconfig.json
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\bin\Debug\netcoreapp2.2\MainAPI.runtimeconfig.dev.json
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\bin\Debug\netcoreapp2.2\MainAPI.dll
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.csprojAssemblyReference.cache
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.csproj.CoreCompileInputs.cache
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.RazorAssemblyInfo.cache
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.RazorAssemblyInfo.cs
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.AssemblyInfoInputs.cache
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.AssemblyInfo.cs
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.RazorTargetAssemblyInfo.cache
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\bin\Debug\netcoreapp2.2\MainAPI.pdb
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.dll
+D:\Code Repository\Seat Booking + SQS + SNS\MainAPI\obj\Debug\netcoreapp2.2\MainAPI.pdb
